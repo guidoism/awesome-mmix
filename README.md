@@ -5,3 +5,4 @@
   </a>
   
   - [mmixlib](https://gitlab.lrz.de/mmix/mmixlib) - The MMIX assembler and simulator broken out into a library so it can be used directly by applications
+  - [mmix-wasm](https://blog.y2kbugger.com/mmix-wasm.html) - Simple online MMIX assembler and simulator using mmixlib compiled to WASM
