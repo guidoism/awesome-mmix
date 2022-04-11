@@ -12,5 +12,6 @@
 ## Other information
 
 - [Main MMIX website](http://mmix.cs.hm.edu) - Seems kinda out-of-date
+- [Knuth's MMIX webpage](https://www-cs-faculty.stanford.edu/~knuth/mmix.html)
 
 
